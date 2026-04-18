@@ -32,27 +32,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
----
-
-### 🏆 Featured Project
-
-#### [🍫 Dark Purple — Smart Restaurant Menu](https://github.com/Eswar0108/DarkPurple)
-
-A QR-powered digital menu & ordering system built for a real restaurant. Customers scan a QR code on their table, browse 218 menu items, place orders from their phone, and track live status — no app download needed.
-
-**Live:** [dark-purple-menu.vercel.app](https://dark-purple-menu.vercel.app/?table=1)
-
-**Tech:** React · Vite · Node.js · WebSocket · Vercel
-
-**Features:**
-- 📱 QR code per table → interactive menu on any phone
-- 🛒 In-app cart & ordering (no waiter needed)
-- 📋 Live order tracking (Received → Preparing → Served)
-- 📊 Admin dashboard with live orders, menu editor, stats
-- 🔍 Instant search across 218 items in 13 categories
-- 🔔 One-tap service requests (call waiter, water, bill)
-
----
+-------
 
 ### 📊 GitHub Stats
 
