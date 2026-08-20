@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Tejeswar Reddy Narreddy</h1>
-<h3 align="center">Full Stack Developer from Proddatur, Andhra Pradesh, India</h3>
+<h3 align="center">Full Stack Developer from India</h3>
 
 <p align="center">
   <a href="https://github.com/Eswar0108"><img src="https://img.shields.io/github/followers/Eswar0108?label=Follow&style=social" alt="GitHub followers"></a>
